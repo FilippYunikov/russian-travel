@@ -1,0 +1,14 @@
+.lead__signature {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    margin-top: 8px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__signature {
+      padding-left: 16px;
+    }
+  }
