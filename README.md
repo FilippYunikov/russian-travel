@@ -15,4 +15,4 @@
 
 **Ссылка на проект**
 
-https://github.com/FilippYunikov/russian-travel
+https://filippyunikov.github.io/russian-travel/index.html
