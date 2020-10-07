@@ -14,11 +14,11 @@ margin: 0;
     }
 }
 
-@media screen and(max-width: 767px) {
-  .place__title {
-      font-size: 42px;
-      line-height: 46px;
-      padding-left: 16px;
-   
-  }
+@media sreen and (max-width: 767px) {
+    .place__title {
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
+    }
 }
